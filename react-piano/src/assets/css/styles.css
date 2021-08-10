@@ -15,6 +15,7 @@ body {
 	font-size: 16pt;
 }
 
+.octave,
 .piano {
 	display: flex;
 }
@@ -33,14 +34,14 @@ body {
 }
 
 .white {
-	--width: 100px;
+	--width: 80px;
 	color: black;
 	background-color: white;
 	border: 1px solid #111;
 }
 
 .black {
-	--width: 60px;
+	--width: 40px;
 	color: white;
 	background-color: #111;
 	border: 1px solid #111;

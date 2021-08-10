@@ -4,7 +4,7 @@ import { NOTES } from "../global/constants";
 
 const Octave = () => {
 	return (
-		<div className="piano">
+		<div className="octave">
 			{NOTES.map((note, index) => {
 				return <Key key={index} note={note} />;
 			})}
