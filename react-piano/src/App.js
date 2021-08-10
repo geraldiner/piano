@@ -1,9 +1,12 @@
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello, world!</h1>
-    </div>
-  );
-}
+import React from "react";
+import Octave from "./components/Octave";
+
+const App = () => {
+	return (
+		<>
+			<Octave />
+		</>
+	);
+};
 
 export default App;
