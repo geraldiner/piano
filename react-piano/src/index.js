@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import Piano from "./components/Piano";
 import "./assets/css/styles.css";
 
 ReactDOM.render(
 	<React.StrictMode>
-		<App />
+		<Piano />
 	</React.StrictMode>,
 	document.getElementById("root"),
 );
