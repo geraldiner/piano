@@ -7,13 +7,12 @@ import MAPS from "../constants/KEYBOARD_MAP";
 const Piano = ({ startNote, endNote }) => {
 	const notes = getNotesBetween(startNote, endNote);
 	const audioPlayer = AudioPlayer();
-
 	const [notesPlaying, setNotesPlaying] = useState([]);
+
 	useEffect(() => {
 		audioPlayer.setInstrument("acoustic_grand_piano");
 		window.addEventListener("keydown", handleKeyDown);
-		// window.addEventListener("keyup", handleKeyUp);
-		console.log(notesPlaying);
+		window.addEventListener("keyup", handleKeyUp);
 	}, []);
 
 	const handleKeyDown = e => {
