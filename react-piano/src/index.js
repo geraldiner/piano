@@ -5,7 +5,7 @@ import "./assets/css/styles.css";
 
 ReactDOM.render(
 	<React.StrictMode>
-		<Piano />
+		<Piano startNote="F4" endNote="B5" />
 	</React.StrictMode>,
 	document.getElementById("root"),
 );

@@ -1,15 +1,8 @@
 import React from "react";
+import isAccidental from "../utils/isAccidental";
 
-const Key = ({ isPlaying, isAccidental, keyboardKey }) => {
-	const keyType = isAccidental ? "key black" : "key white";
-
-	return (
-		<div>
-			<div className={isPlaying ? `${keyType} active` : keyType}>
-				<span className="key-label">{keyboardKey}</span>
-			</div>
-		</div>
-	);
+const Key = ({ note, keyboardKey }) => {
+	return <div className={isAccidental(note) ? `key black` : `key white`}>{keyboardKey}</div>;
 };
 
 export default Key;
