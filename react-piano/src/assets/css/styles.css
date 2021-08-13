@@ -41,7 +41,7 @@ body {
 }
 
 .black {
-	--width: 30px;
+	--width: 35px;
 	color: white;
 	background-color: #111;
 	border: 1px solid #111;
