@@ -18,7 +18,7 @@ Then ported to React with `soundfont-player` by [@danigb](https://github.com/dan
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, React
+**Tech used:** HTML, CSS, JavaScript, ReactJS
 
 ### VanillaJS Piano
 
@@ -62,6 +62,6 @@ This project has made me curious about new projects, like the [Sound Alerts Twit
 
 Check out other stuff I've worked on:
 
-**Habit Reset:** https://github.com/geraldiner/habit-reset
+**Pom Poko Pomodoro Timer:** https://github.com/geraldiner/pom-poko-pomodoro
 
-**ACNH Quotes:** https://github.com/geraldiner/acnh-quotes
+**K.K. Radio:** https://github.com/geraldiner/kk-radio
