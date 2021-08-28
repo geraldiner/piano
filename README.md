@@ -12,7 +12,7 @@ Then ported to React with `soundfont-player` by [@danigb](https://github.com/dan
 
 **VanillaJS Piano**: https://github.com/geraldiner/piano/tree/main/vanillajs-piano
 
-**React Piano**: https://geraldiner.com/piano
+**React Piano**: https://geraldiner.github.io/piano
 
 [![React Piano demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1628839075/video_to_markdown/images/streamable--1od18g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/vvkeks "React Piano demo")
 
