@@ -16,7 +16,7 @@ Then ported to React with `soundfont-player` by [@danigb](https://github.com/dan
 
 [![React Piano demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1628839075/video_to_markdown/images/streamable--1od18g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/vvkeks "React Piano demo")
 
-## How It's Made:
+## How It's Made
 
 **Tech used:** HTML, CSS, JavaScript, ReactJS
 
@@ -50,7 +50,7 @@ Because the `Piano` takes in a `startNote` and `endNote`, you could make a `Pian
 
 Similarly, I put the note-to-keyboard and keyboard-to-note mapping in its own file to keep it constant. While this does make the mapping fairly permanent, I lessen the risk of typing out the wrong keyboard key or note anywhere else in the code.
 
-## Lessons Learned:
+## Lessons Learned
 
 Here's another admission: I had about 3 false starts on this project, meaning I restarted from a blank slate about 3 times. The most difficult part was definitely setting up the `AudioContext` and `InstrumentAudio`. I'd only been exposed to React Contexts very briefly, so I had to spend a lot of time reading the documentation and referencing the existing code, translating it from `class` based components to functional components.
 
