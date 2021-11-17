@@ -62,6 +62,10 @@ This project has made me curious about new projects, like the [Sound Alerts Twit
 
 Check out other stuff I've worked on:
 
-**Pom Poko Pomodoro Timer:** https://github.com/geraldiner/pom-poko-pomodoro
+**Rehabitter:** https://github.com/geraldiner/rehabitter
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
+
+**Interactive Piano:** https://github.com/geraldiner/piano
+
+**Pom Poko Pomodoro:** https://github.com/geraldiner/pom-poko-pomodoro
