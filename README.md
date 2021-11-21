@@ -59,6 +59,7 @@ With each false start, it really drove the lesson home of taking everything piec
 This project has made me curious about new projects, like the [Sound Alerts Twitch Extension](https://soundalerts.com/). I can see how you could make a budget version by setting up a similar project with your own audio files and play them from your keyboard.
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -70,5 +71,3 @@ Check out other stuff I've worked on:
 **Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
-
-**Interactive Piano:** https://github.com/geraldiner/piano
