@@ -57,26 +57,6 @@ Here's another admission: I had about 3 false starts on this project, meaning I 
 With each false start, it really drove the lesson home of taking everything piece by piece and testing along the way. Every time I implemented something new, I would stop and test the piano to make sure it didn't have any unintended consequences.
 
 This project has made me curious about new projects, like the [Sound Alerts Twitch Extension](https://soundalerts.com/). I can see how you could make a budget version by setting up a similar project with your own audio files and play them from your keyboard.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Other Projects
 
 Check out other stuff I've worked on:
